@@ -22,7 +22,7 @@ public class MainClass {  // PascalCase
         //double totalWeight = packageWeight + 2;
 
         // NEJDE! invoice1.invoiceNumber = 202500004;
-        System.out.println("Číslo faktury: " + invoice1.invoiceNumber);
+        //System.out.println("Číslo faktury: " + invoice1.invoiceNumber);
 //        System.out.println("Jméno zákazníka: "         + customerName);
 //        System.out.println("Datum vystavení faktury: " + invoiceDate);
 //        System.out.println("Celková částka: "          + totalAmount);
