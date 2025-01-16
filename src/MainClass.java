@@ -5,7 +5,7 @@ import java.time.LocalDate;
 
 public class MainClass {  // PascalCase
     public static void main(String[] args) {
-
+        // Ahoj!
         Invoice invoice1 = new Invoice();
         Invoice invoice2 = new Invoice();
         Invoice invoice3 = new Invoice();
